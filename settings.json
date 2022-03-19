@@ -1,0 +1,17 @@
+{
+    "php.validate.executablePath": "C:\\PHP\\php.exe",
+    "php.executablePath": "C:\\PHP\\php.exe",
+    "phpserver.phpPath": "C:\\PHP\\php.exe",
+    "phpserver.phpConfigPath": "C:\\PHP\\php.exe\\php.ini",
+    "php.validate.enable": true,
+    "php.validate.run": "onSave",
+    "emmet.excludeLanguages": [
+        "markdown",
+        "php"
+    ],
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.enableSmartCommit": true
+}
