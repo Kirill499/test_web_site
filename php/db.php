@@ -1,6 +1,6 @@
 <?php
 
-R::setup( 'mysql:host=localhost;dbname=mydatabase',
-        'user', 'password' ); //for both mysql or mariaDB
+R::setup( 'mysql:host=localhost;dbname=test_DATABASE',
+        'root', 'vp(ng@te_4b^85' ); //for both mysql or mariaDB
 
 ?>
