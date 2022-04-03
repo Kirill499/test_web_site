@@ -1,7 +1,5 @@
 # test_web_site
-# Заголовок 1
-Ru
+# Ru
 Тест моих навыков в веб разработке.
-
-En
+# En
 A test of my web development skills.
